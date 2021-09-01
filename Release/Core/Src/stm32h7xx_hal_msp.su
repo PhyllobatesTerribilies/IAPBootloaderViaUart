@@ -1,0 +1,7 @@
+stm32h7xx_hal_msp.c:64:6:HAL_MspInit	8	static
+stm32h7xx_hal_msp.c:85:6:HAL_ETH_MspInit	64	static
+stm32h7xx_hal_msp.c:154:6:HAL_ETH_MspDeInit	8	static
+stm32h7xx_hal_msp.c:198:6:HAL_UART_MspInit	40	static
+stm32h7xx_hal_msp.c:237:6:HAL_UART_MspDeInit	8	static
+stm32h7xx_hal_msp.c:268:6:HAL_PCD_MspInit	40	static
+stm32h7xx_hal_msp.c:311:6:HAL_PCD_MspDeInit	0	static
